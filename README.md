@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Oi, meu nome é Anne! 👋🏻</h1>
-  <p><em>Comecei desenhando espaços, hoje desenho experiências!</em></p>
+  <p><em>Comecei desenhando espaços, hoje desenho experiências digitais!</em></p>
   <img
     height="150"
     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZzMnd4bW1kNzl6OWdnemxlajQycjY1ZHJxd3MwcTB6bTltcHFiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif"
